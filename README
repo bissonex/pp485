@@ -1,0 +1,3 @@
+This is version 0.2 of a simple driver for an PMC485 interface card. See
+COPYING for details on the license, see API.txt for details on how to use
+the driver, and look at the example progs in the examples directory
